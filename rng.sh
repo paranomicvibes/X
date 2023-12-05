@@ -1,6 +1,6 @@
 #!/bin/bash
 
-src_folder="/storage/emulated/0/exo"
+src_folder="/storage/emulated/0/shared/exo"
 dest_folder="/storage/emulated/0/Download/organized_files"
 files_per_folder=50
 total_folders=20
