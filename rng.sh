@@ -2,8 +2,8 @@
 
 src_folder="/storage/emulated/0/exo"
 dest_folder="/storage/emulated/0/Download/organized_files"
-files_per_folder=100
-total_folders=10
+files_per_folder=50
+total_folders=20
 
 # Create the destination folder
 mkdir -p "$dest_folder"
